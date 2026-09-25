@@ -44,20 +44,21 @@ TrackRelay is an independent project and is not affiliated with or endorsed by A
 
 - macOS 13 or later.
 - Logic Pro.
-- Xcode 15 or later to build the app from source.
 - Accessibility permission for Logic transport control.
 - MTC enabled in each Logic project for position tracking, Scene mode and
   automatic project changes.
 
 TrackRelay has no third-party dependencies.
 
-## Build from source
+## Installation
 
-1. Clone this repository.
-2. Open `TrackRelay.xcodeproj` in Xcode.
-3. Select the **TrackRelay** scheme and the **My Mac** destination.
-4. Set your Development Team under **Signing & Capabilities** if Xcode requests it.
-5. Build and run with `⌘R`.
+1. Download the latest TrackRelay build from the
+   [Releases page](https://github.com/adriendoespostrock/TrackRelay/releases).
+2. Move **TrackRelay.app** to the Applications folder.
+3. Launch TrackRelay. If macOS blocks the first launch, right-click the app,
+   choose **Open**, then confirm.
+4. Grant Accessibility permission when using Logic transport controls for the
+   first time.
 
 ## Preparing the Logic projects
 
