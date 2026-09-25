@@ -21,6 +21,36 @@ automation for external equipment, but it does not impose a specific track layou
 
 TrackRelay is an independent project and is not affiliated with or endorsed by Apple.
 
+## Screenshots
+
+### Setlist management
+
+Create and organize complete shows, include or exclude individual songs and see
+the total duration of the active set.
+
+![TrackRelay setlist management](Screenshots/setlist.png)
+
+### Scene view
+
+Follow the current song, musical section, progress, remaining time and upcoming
+songs from a display designed to remain readable on stage.
+
+![TrackRelay Scene view](Screenshots/scene-view.png)
+
+### MIDI remote control
+
+Assign controller messages to the main navigation, transport and Cycle commands
+with the built-in MIDI Learn interface.
+
+![TrackRelay MIDI Learn interface](Screenshots/midi-learn.png)
+
+### Logic marker integration
+
+Markers exported from Logic into a project audio file become the musical
+sections displayed inside the Scene view progress bar.
+
+![Logic Pro song markers](Screenshots/logic-markers.png)
+
 ## Features
 
 - Discover `.logicx` projects recursively from a selected folder.
